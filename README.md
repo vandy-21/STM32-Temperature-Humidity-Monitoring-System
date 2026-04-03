@@ -111,7 +111,7 @@ Connect a serial terminal (9600 baud, 8N1) to see live output:
 
 ---
 
-## 🔧 How the DHT11 Driver Works
+##  How the DHT11 Driver Works
 
 The DHT11 uses a **single-wire half-duplex protocol**:
 
